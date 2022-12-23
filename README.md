@@ -1,6 +1,6 @@
 # AWS CloudFront Terraform module
 
-Terraform module which creates AWS CloudFront resources with all (or almost all) features provided by Terraform AWS provider.
+Terraform module which creates AWS CloudFront resources with all (or almost all) features provided by Terraform AWS provider and can be found on Terraform.io.
 
 ## Usage
 
